@@ -1,0 +1,38 @@
+#boîte1{ width: 1500px;height: 80px;margin: auto;background-color: darkblue; }
+
+ul{ list-style-type: none; color: floralwhite; }
+
+.boîte2{ background-color: darkcyan; width: 600px; height: 200px;}
+
+#boîte3{ background-color:darkgreen; width: 600px; height: 200px; }
+
+h1 { color:rgb(194, 27, 27);
+    text-align: center }
+    
+h2{
+    color: black;
+}
+     
+h3 {
+    text-align: center;
+    
+    }
+
+aside{  position: absolute;
+    top: 200px;
+    left: 950px;
+    width: 400px;
+    height:400px;
+    background-color: darkslategray;
+    text-align: center;
+  }   
+ li {
+     color: white;
+ }
+
+footer {
+    text-align: center;
+}
+
+
+    

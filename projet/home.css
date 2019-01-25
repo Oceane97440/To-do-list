@@ -1,0 +1,28 @@
+#boîte1{ width: 1500px;
+        height: 80px;
+        margin: auto;
+        background-color: darkblue; }
+        
+ul{ list-style-type: none; color: floralwhite; }
+
+li {
+    color: white;
+}
+
+h1{ text-align: center; color: red;}
+
+.Faire{ background-color: darkcyan; width: 600px; height: 200px;margin-left: 400px; }
+
+.boîte2{ background-color: darkcyan; width: 600px; height: 200px; margin-left: 400px;margin-top: 56px }
+
+aside{  position: absolute;
+    top: 200px;
+    left: 1100px;
+    width: 250px;
+    height:300px;
+    background-color: darkslategray;
+    text-align: center;}   
+
+footer {
+    text-align: center;
+}

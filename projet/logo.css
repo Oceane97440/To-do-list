@@ -1,0 +1,23 @@
+
+
+h1 { 
+    text-align: center; color: red;
+}
+.presentation{background-color: darkcyan; 
+    width: 600px;
+    height: 200px;
+    margin-left: 400px;
+}
+li {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
+
+#boîte3{background-color: cyan; width: 600px; height: 200px; margin-left: 400px}
+
+footer {
+    text-align: center;
+}
